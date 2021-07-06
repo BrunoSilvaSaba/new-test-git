@@ -1,1 +1,31 @@
-ECHO est  ativado.
+ECHO est  ativado. 
+
+		 Comandos git 
+
+ Clonagem de repositorios: 
+
+- git clone nome-repositorio 
+
+ Criacao de novos arquivos: 
+
+- echo > nome-do-arquivo-desejado.html/js/... 
+
+ Incluindo o arquivon criado para um futuro commit: 
+
+- git add * 
+
+ Verificacao de status do arquivo: 
+
+- git status 
+
+ Criando um commit dos arquivos pertencentes a pasta que vc se encontra: 
+
+- git commit -m "nome do commit" 
+
+ Subir os arquivos para seu repositorio no GitHub: 
+
+- git push origin main. 
+
+
+ 
+
