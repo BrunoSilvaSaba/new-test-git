@@ -1,10 +1,10 @@
-ECHO est  ativado. 
+ECHO estÂ  ativado. 
 
 		 Comandos git 
 
  Clonagem de repositorios: 
 
-- git clone nome-repositorio 
+- git clone url-do-repositorio 
 
  Criacao de novos arquivos: 
 
